@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1666991285 source:e:\codeblocks\trabalho_agenda\agenda.c
+	<stdlib.h>
+	<stdio.h>
+	"agenda.h"
+	<string.h>
+
+1666902634 e:\codeblocks\trabalho_agenda\agenda.h
+
+1666993780 source:e:\codeblocks\trabalho_agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+	<locale.h>
+
